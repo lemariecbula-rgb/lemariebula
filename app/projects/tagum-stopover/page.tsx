@@ -99,7 +99,7 @@ export default function ProjectPage() {
           <div className="bg-neutral-200">
             <img
               src="/images/project-one.webp"
-              alt="House in the Forest"
+              alt="secret"
               className="h-auto w-full"
             />
           </div>
@@ -107,7 +107,7 @@ export default function ProjectPage() {
           <div className="bg-neutral-200">
             <img
               src="/images/project-one.webp"
-              alt="House in the Forest"
+              alt="secret"
               className="h-auto w-full"
             />
           </div>
