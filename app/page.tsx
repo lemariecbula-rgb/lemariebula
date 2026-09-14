@@ -65,12 +65,12 @@ export default function Home() {
 
 
               <a
-                href="#"
+                href="/projects/residential-development"
                 className="group flex items-center justify-between border-t border-black/10 py-4"
               >
                 <div>
                   <p className="text-lg">
-                    Project Two
+                    Site Planning Study for a Proposed Residential Development
                   </p>
 
                   <p className="mt-1 text-xs text-black/50">

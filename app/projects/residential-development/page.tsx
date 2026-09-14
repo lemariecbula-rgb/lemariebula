@@ -4,20 +4,20 @@ import { useEffect, useState } from "react";
 
 const galleryImages = [
   {
-    src: "/images/project-1.webp",
-    alt: "Tagum Stopover hero",
+    src: "/images/plpanning1-residential development.webp",
+    alt: "Residential Development hero",
   },
   {
     src: "/images/project-one.webp",
-    alt: "Tagum Stopover project image 1",
+    alt: "Residential Development project image 1",
   },
   {
     src: "/images/project-one.webp",
-    alt: "Tagum Stopover project image 2",
+    alt: "Residential Development project image 2",
   },
   {
     src: "/images/project-one.webp",
-    alt: "Tagum Stopover project image 3",
+    alt: "Residential Development project image 3",
   },
 ];
 
@@ -100,7 +100,7 @@ export default function ProjectPage() {
         </p>
 
         <h1 className="max-w-5xl text-6xl font-normal leading-[0.95] tracking-tight md:text-9xl">
-          A Proposed Tagum Stopover
+          A Proposed Residential Development
         </h1>
 
       </section>
@@ -115,8 +115,8 @@ export default function ProjectPage() {
         >
 
           <img
-            src="/images/project-1.webp"
-            alt="Tagum Stopover"
+            src="/images/plpanning1-residential development.webp"
+            alt="Residential Development"
             className="h-auto w-full transition duration-500 group-hover:scale-[1.01] group-hover:opacity-90"
           />
 
@@ -139,7 +139,7 @@ export default function ProjectPage() {
           </p>
 
           <p className="text-sm">
-            Transportation / Mixed-Use Infrastructure
+            Residential Development
           </p>
         </div>
 
@@ -149,7 +149,7 @@ export default function ProjectPage() {
           </p>
 
           <p className="text-sm">
-            Tagum City
+            Davao City
           </p>
         </div>
 
@@ -159,7 +159,7 @@ export default function ProjectPage() {
           </p>
 
           <p className="text-sm">
-            4th yr, 2026
+            3rd Yr, 2026
           </p>
         </div>
 
@@ -258,7 +258,7 @@ export default function ProjectPage() {
           >
 
             <p className="text-xs uppercase tracking-widest">
-              A Proposed Tagum Stopover
+              A Proposed Residential Development
             </p>
 
             <button
